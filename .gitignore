@@ -1,0 +1,6 @@
+*.o
+*.bin
+*.json
+*.prob
+*.out
+*..DS_Store
