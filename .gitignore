@@ -3,4 +3,5 @@
 *.json
 *.prob
 *.out
-*..DS_Store
+*.DS_Store
+.vscode/
